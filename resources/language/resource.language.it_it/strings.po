@@ -131,20 +131,20 @@ msgstr "Nascondi fanart"
 
 msgctxt "#30603"
 msgid "Most Popular"
-msgstr ""
+msgstr "Più popolari"
 
 msgctxt "#30604"
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 msgctxt "#30605"
 msgid "Page (%s/%s) | Next >>"
-msgstr ""
+msgstr "Pagina (%s/%s) | Prossima"
 
 msgctxt "#30606"
 msgid "By country"
-msgstr ""
+msgstr "Per Paese"
 
 msgctxt "#30607"
 msgid "Prefer HTTP streams over HTTS"
-msgstr ""
+msgstr "Preferisci HTTP rispetto a HTTS"
